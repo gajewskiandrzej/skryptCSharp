@@ -1,0 +1,2 @@
+# skryptCSharp
+Skrypt języka C#
